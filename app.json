@@ -1,0 +1,11 @@
+{
+  "name": "Emaily Node.JS Express",
+  "description": "Emaily example application",
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "website": "http://www.rodrigosouza.net.br",
+  "repository": "https://github.com/rsouza01/node_react_fullstack.git",
+  "logo": "https://nodejs.org/images/logos/nodejs.png"
+}
