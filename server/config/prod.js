@@ -5,6 +5,6 @@ module.exports = {
     googleClientSecret: process.env.GOOGLE_CLIENT_SECRET,
 
     stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
-    stripesecretKey: process.env.STRIPE_secret_KEY
+    stripeSecretKey: process.env.STRIPE_secret_KEY
 
 };
